@@ -18,3 +18,4 @@
 <code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
+<code><img width="30" height="20" src="https://api.iconify.design/logos-go.svg"></code>
